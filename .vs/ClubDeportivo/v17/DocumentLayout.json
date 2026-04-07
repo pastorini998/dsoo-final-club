@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|c:\\users\\ivaba\\desktop\\clubdeportivo\\frminscripcion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|solutionrelative:frminscripcion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|solutionrelative:frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|c:\\users\\ivaba\\desktop\\clubdeportivo\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9B4C4AD-4848-4703-988D-56F219467A3F}|ClubDeportivo.csproj|solutionrelative:frminscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:33:26.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmInscripcion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frmInscripcion.Designer.cs",
+              "RelativeDocumentMoniker": "frmInscripcion.Designer.cs",
+              "ToolTip": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frmInscripcion.Designer.cs",
+              "RelativeToolTip": "frmInscripcion.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:29:04.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmInscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frmInscripcion.cs",
+              "RelativeDocumentMoniker": "frmInscripcion.cs",
+              "ToolTip": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frmInscripcion.cs",
+              "RelativeToolTip": "frmInscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:20:40.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmInscripcion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frmInscripcion.cs",
+              "RelativeDocumentMoniker": "frmInscripcion.cs",
+              "ToolTip": "C:\\Users\\ivaba\\Desktop\\ClubDeportivo\\frmInscripcion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmInscripcion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T22:19:24.898Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
